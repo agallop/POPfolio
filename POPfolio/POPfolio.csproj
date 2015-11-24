@@ -68,9 +68,13 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="BodyNode.cs" />
     <Compile Include="CheckListPage.xaml.cs">
       <DependentUpon>CheckListPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="HeadNode.cs" />
+    <Compile Include="HTMLNode.cs" />
+    <Compile Include="HTMLRoot.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
